@@ -1,0 +1,19 @@
+body {
+    background-image: url(images/Profi_people.jpg);
+    background-size: 1270px 455px;
+    position: absolute;
+    top: 45%;
+	left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+.card-body {
+    background-color: rgba(250, 234, 216, 0.619);
+}
+.card-header, .card-footer {
+    background-color: rgba(250, 232, 167, 0.667);
+}
+#generation.btn.btn-success {
+    margin-right: 50px;
+}
+
